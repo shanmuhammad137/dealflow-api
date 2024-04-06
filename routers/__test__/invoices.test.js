@@ -10,6 +10,9 @@ describe('Invoices API', () => {
     expect(response.body).toHaveProperty('total_records');
     expect(response.body).toHaveProperty('has_more');
     expect(response.body).toHaveProperty('data');
+
+    expect(typeof response.body.total_records).toBe('number');
+    expect(typeof response.body.has_more).toBe('boolean');
     expect(Array.isArray(response.body.data)).toBeTruthy();
 
     response.body.data.forEach(invoice => {

@@ -1,0 +1,12 @@
+{
+  "id": 11,
+  "kyc_status": "under_review",
+  "kyb_status": "under_review",
+  "preferred_currency": "USD",
+  "special_activities": [],
+  "wallet_balances": {
+    "USD": 10000.00,
+    "EUR": 9218.50,
+    "CAD": 13590.50
+  }
+}
