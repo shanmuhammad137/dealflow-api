@@ -1,0 +1,19 @@
+{
+  "country": "NOR",
+  "account_holder_name": "Mary Doe",
+  "bank_name": "Danske Bank",
+  "account_number": "657567",
+  "currency": "DKK",
+  "is_primary": true,
+  "swift_code": "DABADKKK",
+  "iban": "DK1234567890",
+  "bic": "DABADKKK",
+  "routing_number": "routing_number_sample",
+  "sort_code": "sort_code",
+  "account_type": "Savings",
+  "bank_account_status": "active",
+  "reg_number": "",
+  "clearing_number": "",
+  "financial_institution_number": "",
+  "transit_number": ""
+}
