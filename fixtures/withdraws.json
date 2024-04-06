@@ -1,0 +1,25 @@
+[
+  {
+    "invoice_id": 1,
+    "bank_account_id": 1,
+    "currency": "EUR"
+  },
+  {
+    "invoice_id": 2,
+    "bank_account_id": 2
+  },
+  {
+    "invoice_id": 3,
+    "bank_account_id": 3,
+    "currency": "CAD"
+  },
+  {
+    "invoice_id": 4,
+    "currency": "CAD"
+  },
+  {
+    "invoice_id": 533,
+    "bank_account_id": 4,
+    "currency": "USD"
+  }
+]
